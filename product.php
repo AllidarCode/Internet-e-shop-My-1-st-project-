@@ -934,7 +934,7 @@
     </div>
 </div>
 
-<script src="vendor/lightgallery.js/dist/js/lightgallery.min.js"></script>
+<script src="js/vendor/lightgallery.js/dist/js/lightgallery.min.js"></script>
 <?php
     require_once('files/footer.php');
 ?>
