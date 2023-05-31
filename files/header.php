@@ -330,8 +330,8 @@
                                             </div>
                                         </div>
                                         <div class="d-flex flex-wrap justify-content-between align-items-center py-3">
-                                            <div class="fs-sm me-2 py-2"><span class="text-muted">Subtotal:</span><span class="text-accent fs-base ms-1">$<?= $cart_total ?> . <small>00</small></span></div><a class="btn btn-outline-secondary btn-sm" href="cart.php">Expand cart<i class="ci-arrow-right ms-1 me-n1"></i></a>
                         <?php } ?>
+                                            <div class="fs-sm me-2 py-2"><span class="text-muted">Subtotal:</span><span class="text-accent fs-base ms-1">$<?= $cart_total ?> . <small>00</small></span></div><a class="btn btn-outline-secondary btn-sm" href="cart.php">Expand cart<i class="ci-arrow-right ms-1 me-n1"></i></a>
                                         </div><a class="btn btn-primary btn-sm d-block w-100" href="checkout.php"><i class="ci-card me-2 fs-base align-middle"></i>Checkout</a>
                                     </div>
                                 </div>
